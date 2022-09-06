@@ -1,5 +1,5 @@
 const num = 7
-const resto = (num%2)
+const resto = Number (num%2)
 
 
 if (resto === 0) {
